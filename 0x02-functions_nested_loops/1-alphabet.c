@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - prints alphabets in lower case,
- * followed by a new line
+ * main - prints alphabets in lower case
+ *
  *
  * Return: Always 0 (Success)
  */
@@ -14,6 +14,6 @@ int main(void)
 	{
 	putchar (ch);
 	}
-	putchar ('\n');
+	putchar('\n');
 	return (0);
 }
