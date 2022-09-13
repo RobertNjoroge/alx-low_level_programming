@@ -8,10 +8,12 @@
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 
 {
 	int letter;
+
 	letter = '_';
 	putchar(letter);
 	letter = 'p';
