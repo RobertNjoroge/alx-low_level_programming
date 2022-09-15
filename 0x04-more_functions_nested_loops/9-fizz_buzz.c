@@ -6,6 +6,7 @@
  * but for multiplication of three prints pizz,multiplication of 5 prints Buzz
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int i;
