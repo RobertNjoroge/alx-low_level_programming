@@ -22,7 +22,10 @@ int main(void)
 		for (r = 3; r < number / 2; r++)
 		{
 			if (number % r == 0)
+			{
 				number /= r;
+			}
 		}
 	}
+	return (0);
 }
