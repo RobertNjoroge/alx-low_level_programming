@@ -28,10 +28,10 @@ void rev_string(char *s)
 	{
 		ch = *end_ptr;
 		*end_ptr = *begin_ptr;
-		begin_ptr = ch;
+		*begin_ptr = ch;
 
 		begin_ptr++;
 
-		end_ptr-;
+		end_ptr--;
 	}
 }
