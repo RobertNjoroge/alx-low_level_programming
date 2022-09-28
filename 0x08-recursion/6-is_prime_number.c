@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * is_prime_number - a function that returns 1 if the input integer is prime
