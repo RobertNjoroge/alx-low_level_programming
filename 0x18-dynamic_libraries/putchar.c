@@ -3,7 +3,7 @@
  * _putchar - prints characters
  * @c: parameter
  *
- * Returns: Always 0
+ * Return: Always 0
  */
 
 int _putchar(char c)
