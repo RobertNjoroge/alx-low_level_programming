@@ -6,4 +6,4 @@
 # variables: none
 
 all: main.c school.c
-	gcc -c school.c -o school
+	gcc main.c school.c -o school
